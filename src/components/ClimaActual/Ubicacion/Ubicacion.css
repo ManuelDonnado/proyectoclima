@@ -1,0 +1,20 @@
+.ubicacion{
+    width: 229px;
+    height: 98;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin: 10% 1% 10% 27%;
+}
+
+.locate {
+    background-color: #6E707A;
+    color: #E7E7EB;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+  }
+

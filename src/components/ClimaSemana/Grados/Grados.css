@@ -1,0 +1,49 @@
+.BGD{
+    width: 981px; 
+    height: 98px; 
+    background-color:  #100e1d;
+}
+
+.buttons{
+    display: flex;
+    justify-content: end;
+    text-align: center;
+    margin: 0px 100px 0px;
+}
+
+.formatA{
+  background-color: gray; 
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 54%;
+    width: 40px; 
+    height: 40px; 
+    font-size: 18px; 
+    margin: 5% 2% 10% ;
+    text-align: center;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.formatB{
+    background-color: gray;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 54%;
+      width: 40px; 
+      height: 40px; 
+      font-size: 18px; 
+      margin: 5% 2% 10% ;
+      text-align: center;
+      margin-left: 10px;
+      padding-left: 10px;  
+}
+
+.formatB.active {
+    background-color: white; /* Color de fondo cuando está activo */
+    color: black; /* Color de texto cuando está activo */
+  }

@@ -1,0 +1,117 @@
+.atributosBody{
+    width: 981px; 
+    height: 643px; 
+    background-color:  #100e1d;
+}
+
+
+.atributos{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0% 10% 20% 10%; 
+}
+
+.tittle {
+  color:#E7E7EB;
+  font-size: 24px;
+  line-height: 28.18px;
+  font-weight: 700;
+  font-family: Raley;
+  position: absolute; 
+  margin: 20px 100px;  
+}
+
+.card1{
+    background-color:#1E213A ;
+    width: 328px;
+    height: 204px;
+    top: 457px;
+    left: 613px;
+    color: #E7E7EB;
+    margin: 10% 0% 10% 0%;
+}
+
+.card2{
+    background-color:#1E213A ;
+    width: 328px;
+    height: 159px;
+    top: 709px;
+    left: 613px;
+    color: #E7E7EB;
+    margin: 0% 0% 10% 0%;
+}
+
+.textAt{
+  color: #E7E7EB;
+  font-size: 16px;
+  font-weight: 500px;
+  font-family: Raleway;
+  align-content: center;
+  margin: 7% 0% 0% 0%;
+}
+
+.valorText {
+  font-size: 36px;
+  margin: 7% 0% ;
+}
+
+.wind-container {
+  display: flex;
+  align-items: center;
+}
+
+.btnWind {
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+  background-color: #616475;
+  color: white;
+  border: none;
+  cursor: pointer;
+  line-height: 1px; 
+  text-align: center;
+  margin-left: 5px;
+  padding-left: 8px;
+}
+
+.windText {
+  font-size: 20px;
+  margin-left: 1px;
+}
+
+.progress-container {
+    width: 80%;
+    margin: 40px auto;
+    border: 1px solid #ccc;
+    position: relative;
+    border-radius: 30px;
+  }
+  
+  .progress-bar {
+    height: 8px;
+    background-color: #ffec65;
+    transition: width 0.5s;
+
+  }
+  
+  .markers {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: -20px; 
+    width: 100%;
+  }
+  
+  .markers span {
+    font-size: 12px;
+  }
+
+  .userDev{
+    color: #E7E7EB;
+    margin: 0% 30%;
+    font-size: 14PX;
+    line-height: 17.07PX;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }

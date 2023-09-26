@@ -1,0 +1,22 @@
+#climaToday{
+    width: 460px; 
+    height: 376px; 
+    background-image: url('../../../assets/images/Cloud-background.png');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    background-color:  #1E213A;
+}
+
+.imgclima{
+    width: 202px;
+    height: 234px;
+    top: 191 px;
+    left: 129 px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+
+}

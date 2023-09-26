@@ -1,0 +1,45 @@
+.semanalBody{
+    width: 981px; 
+    height: 282px; 
+    background-color:  #100e1d;
+}
+
+.card{
+    width: 90px; 
+    height: 160px;
+    background-color: #1e213a; 
+    display: inline-block; 
+  margin: 10px;
+}
+
+.imgClima1{
+    width: 56.44px; 
+    height: 62pxpx;
+
+}
+
+.containerCard {
+    align-content: center;
+    text-align: center;
+    color: #E7E7EB;
+    font-size: 16px;
+    line-height: 18.78px;
+    margin-top: 4%;
+}
+
+.gradosSemana{
+    display: flex;
+    justify-content: space-between;
+    margin: 60% 0% 4% 0%;
+}
+.maxtemp{
+    color: #E7E7EB;
+    font-size: 16px;
+    margin:0% 5% 0% 1% ;
+}
+
+.mintemp{
+    color: #A09FB1;
+    font-size: 16px;
+    margin:0% 0% 0% 5% ;
+}

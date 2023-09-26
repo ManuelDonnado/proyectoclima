@@ -1,0 +1,79 @@
+
+
+.ButtonSearch{
+    width: 230px;
+    height: 98;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin: 10% 15% 10% 13%;
+}
+
+
+.search {
+    background-color: #6E707A;
+    color: #E7E7EB;
+
+    
+}
+
+
+.tituloModal {
+  color: #E7E7EB;
+  margin: 0% 2% 3% 0%;
+}
+
+.modalbtn{
+  display:flex;
+  margin-right: 10%;
+  justify-content: space-between;
+  margin: 0% 10% 5% 0%;
+}
+
+.textSearch {
+  margin: 10%, 5%;
+  height: 20px;
+  width: 250px;
+}
+
+.citybtn {
+  margin: 0%, 5%;
+  height: 30px;
+  text-align: center;
+  margin-left: 20px;
+  padding-left: 20px;
+  margin-bottom: 2%;
+}
+
+
+
+#options {
+    position: relative;
+  }
+  
+  #options > ul {
+    background-color: #1e213a;
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    right: 0;
+    list-style: none;
+    color: white;
+    max-height: 810px;
+    overflow-y: scroll;
+  }
+  
+  #options > ul > li {
+    border: 1px solid black;
+  }
+  
+  #options > ul > li > button {
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    color: white;
+    border: 0;
+    padding: 8px 20px;
+    cursor: pointer;
+  }
+  
