@@ -1,7 +1,7 @@
 import React from 'react'
 import './ClimaDinamico.css'
 import shower from '../../../assets/images/Shower.png'
-import clear from '../../../assets/images/clear.png'
+import clear from '../../../assets/images/Clear.png'
 import HeavyCloud from '../../../assets/images/HeavyCloud.png'
 import HeavyRain from '../../../assets/images/HeavyRain.png'
 import LightCloud from '../../../assets/images/LightCloud.png'
